@@ -8,7 +8,7 @@
 >      5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-**Tidying process
+**Tidying process**
 >      1. download, unzip and import all data
 >      2. merge and label the data
 >      3. select the data which include meand and standard deviation
