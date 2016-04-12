@@ -9,8 +9,8 @@
 
 
 **Tidying process
->      
->      
->      
->      
->      with the average of each variable for each activity and each subject
+>      1. download, unzip and import all data
+>      2. merge and label the data
+>      3. select the data which include meand and standard deviation
+>      4. Uses descriptive activity names to name the activities in the data set
+>      5. create new data set with the average of each variable for each activity and each subject
